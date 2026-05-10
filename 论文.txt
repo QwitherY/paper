@@ -1,0 +1,14 @@
+qwen	https://arxiv.org/abs/2510.14276	英-qwen，微调过程所模仿的文章
+Enhancing Security in LLM Applications: A Performance Evaluation of Early Detection Systems	arxiv.org/html/2506.19109v1#S9	英-Vigil向量相似度搜索
+No Free Lunch With Guardrails	https://arxiv.org/html/2504.00441v2	英-安全护栏综述
+Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM	https://arxiv.org/abs/2508.05775v2	英-各种风险类型
+Safeguarding large language models: a survey	https://link.springer.com/article/10.1007/s10462-025-11389-2#ref-CR3	英-护栏定义、防护技术综述
+DynaGuard: A Dynamic Guardian Model With User-Defined Policies	https://arxiv.org/html/2509.02563v3	英-护栏模型综述、各种数据集、训练过程及公式、可以对比微调模型与原模型差距
+A Survey on LLM Guardrails: Part 1, Methods, Best Practices and Optimisations	https://budecosystem.com/a-survey-on-llm-guardrails-methods-best-practices-and-optimisations/	英-护栏相关研究
+AllGuard:一种用于边端部署内容安全审核的多模态大语言模型	https://jcst.ict.ac.cn/cn/article/doi/10.1007/s11390-025-5508-7?viewType=HTML	英-数据集划分表格、边缘部署（量化、lora）？、微调过程、评估、对模型真实生成进行检测
+OpenGuardrails: A Configurable, Unified, and Scalable Guardrails Platform for Large Language Models	https://arxiv.org/abs/2510.19169	英-象信，微调过程主要参考文章
+
+大模型安全检测评估技术综述_胡斌	中-LLM风险类型、数据集及评估方式
+大语言模型内容安全评估系统的设计与实现_李懿达	中-大模型+软件系统、大模型风险类型、评估的数据集、大模型技术（transformer）、前后端技术、大模型微调及评估、数据集、系统开发（软件工程）
+大语言模型安全与隐私风险综述_姜毅	中-风险类型综述
+中-软件工程论文格式参考文献：基于SpringBoot微框架的建筑项目管理系统_孙宇、基于物联网技术的智能停车场管理系统的设计与实现_姚琳、结题报告模板(理工类)(1)、针对大模型越狱攻击的高效防御方法_唐旻骥
